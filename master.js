@@ -1,4 +1,3 @@
-// Created by Nikky Amresh
 
 function enc(res){
 
